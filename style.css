@@ -97,3 +97,8 @@
   color: #444444;
   text-shadow: none;
 }
+
+.table_online {
+  background: linear-gradient(#9595b6, #5a567f);
+  color: #2EE59D;
+}
